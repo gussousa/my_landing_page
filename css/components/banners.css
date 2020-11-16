@@ -1,0 +1,21 @@
+.banner {
+	background-size: cover;
+	background-position: center;
+	padding: 150px 40px;
+	color: white;
+}
+
+.banner h1{
+	text-shadow: 0px 1px 3px rgba(31, 30, 30, 0.747);
+	font-size: xx-large;
+	font-weight: 500;
+	font-family: 'Dosis', sans-serif;
+}
+
+.banner p{
+	margin-bottom: 50px;
+	color: rgba(216, 86, 0, 0.877);
+	text-shadow: 0px 1px 1px rgba(31, 30, 30, 0.747);
+	opacity: 1;
+	font-size: 20px;
+}
